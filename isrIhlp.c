@@ -18,7 +18,7 @@ int rpdIsr(void)
 	return (0);
 }
 /**
-* Isrcheckbuiltins - akhuty bzzf elina had int 
+* Isrcheckbuiltins - akhuty bzzf elina had int
 * @av: bla mandwi bayna prm
 * @buffer: haheyaa akhra
 * @exitstatus: 3awtani
@@ -49,7 +49,7 @@ int Isrcheckbuiltins(char **av, char *buffer, int exitstatus)
 		return (0);
 }
 /**
-* _Isrread - bogossa dyalna char func tane 
+* _Isrread - bogossa dyalna char func tane
 *
 * Return: finma bghete whenever wherever pointer
 */
@@ -83,7 +83,7 @@ char *_Isrread(void)
 /**
 * _IsrFlPTH - hade ghaliban char func
 * @av: bla mandwe hihi prm
-* @PATH: hta hna 
+* @PATH: hta hna kayna
 * @copy:also here
 *
 * Return: proba pointer
@@ -132,7 +132,7 @@ char *_IsrFlPTH(char **av, char *PATH, char *copy)
 
 /**
 * _Isrforkproces -everything with this char func
-* @av: bla mandwi prm 
+* @av: bla mandwi prme
 * @buffer: prm dyalna
 * @Isrflpth: idem hta hna
 *
