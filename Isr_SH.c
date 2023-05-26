@@ -50,8 +50,8 @@ int _Isrsplitstring(char *Isrnstr)
 }
 /**
 * _IsrStrcmp - had int function twela as hell
-* @strIsr1: hade param prmtr 
-* @strIsr2: hta hade 
+* @strIsr1: hade param prmtr
+* @strIsr2: hta hade
 * Return: der int lshe number
 */
 int _IsrStrcmp(const char *strIsr1, const char *strIsr2)
@@ -70,7 +70,7 @@ int _IsrStrcmp(const char *strIsr1, const char *strIsr2)
 * _IsrStrCat - hade char function
 * @dest: hade param parametre
 * @src: idem
-* i - new param 
+* i - new param alala
 * j - also
 * Return: hada letter char
 */
